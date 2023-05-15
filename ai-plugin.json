@@ -1,0 +1,18 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Speechki Plugin",
+  "name_for_model": "Speechki Plugin",
+  "description_for_human": "Make a text to speech voice in your Open Assistant!",
+  "description_for_model": "Use Speechki Plugin for create tts(text to speech). If user want you to create the voice use Speechki Plugin!",
+  "api": {
+    "type": "openapi",
+    "url": "https://plugin.speechki.org/openapi.yml",
+    "is_user_authenticated": false
+  },
+  "auth": {
+    "type": "none"
+  },
+  "logo_url": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/eq5pkbzaymfcpiv8bruf",
+  "contact_email": "support@raybootlab.ml",
+  "legal_info_url": "https://raybootlab.ml"
+}
